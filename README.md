@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave)
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 <!--
 **chanyoung8828/chanyoung8828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
