@@ -11,16 +11,16 @@
 </br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">
+ <!-- <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white"> -->
 </div>
-
+<!--
 <div align="center">
   <p>✨Backend✨</p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white">
-</div>
+</div>-->
 
 <div align="center">
   <p>✨Communication✨</p>
